@@ -1,5 +1,5 @@
 "use client";
-import { iconDefaultProperties } from "interfaces/constantes";
+import { iconDefaultProperties } from "constants/icon-default-properties.ts";
 import { useState } from "react";
 import { LuEyeOff, LuEye } from "react-icons/lu";
 

@@ -1,6 +1,6 @@
 "use client";
 import { Input } from "components";
-import { iconDefaultProperties } from "interfaces/constantes";
+import { iconDefaultProperties } from "constants/icon-default-properties.ts";
 import { LuMail, LuLock } from "react-icons/lu";
 
 export default function Home() {
@@ -26,4 +26,3 @@ export default function Home() {
     </main>
   );
 }
-
